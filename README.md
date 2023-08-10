@@ -1,6 +1,6 @@
 # Test Project to control Thread Execution
 
-A simple java projectto complete thread execution
+A simple java project to control thread execution
 
 ## Table of Contents
 
